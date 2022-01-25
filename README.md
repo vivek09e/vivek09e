@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivek09e
 - 👀 I’m intereted in Software Development
-- 🌱 I’m currently learning web Development
-- 💞️ I’m looking to collaborate in web development field
+- 🌱 I’m currently learning web Development, Java Spring boot and AWS
+- 💞️ I’m looking to collaborate in backend development field
 - 📫 Please email me on vivek09e@gmail.com for any queries.
 
 <!---
