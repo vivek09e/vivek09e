@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @vivek09e.
+- 👋 Hello, I'm Vivek Tiwari.
 - 👀 Experienced Software Engineer skilled in Backend, Frontend, and AWS technologies.
 - 🌱 Proficient in full-stack development.
 - 💞️ Open to collaboration in the fullstack development field.
